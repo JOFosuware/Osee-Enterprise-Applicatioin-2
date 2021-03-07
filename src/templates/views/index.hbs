@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
+    <title>Osee Enterprise Application</title>
+    <script>
+        const fetchToken = () => {
+            const tokenJSON = localStorage.getItem('UserToken')
+
+            if(tokenJSON !== null){
+                return JSON.parse(tokenJSON)
+            }else{
+                return []
+            }
+        }
+        if(fetchToken().length !== 0){
+            location.assign(`/dashboard?authorization=${fetchToken()}`)
+        }
+    </script>
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/pos.css">
+</head>
+<body class="body">
+    <!-- Image and text -->
+    <nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">
+        <img src="/images/logo.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+        Osee Enterprise Application
+    </a>
+    </nav>
+
+    <!--Landing login button-->
+    <button class="btn btn-dark btn-lg btn-center" id="login">Log In</button>
+
+    <!-- Landing login form after button click-->
+    <form class="col-md-4 form-center d-none" id="login-form">
+        <div id="userReport"></div>
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" name="username" placeholder="Username" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" name="password" placeholder="Password" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-dark">Log In</button>
+    </form>
+
+
+    <script src="/js/jquery-3.3.1.js"></script>
+    <script src="/js/bootstrap.js"></script>
+    <script src="/js/app.js"></script>
+</body>
+</html>

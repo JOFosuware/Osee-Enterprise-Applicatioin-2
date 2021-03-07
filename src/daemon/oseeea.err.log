@@ -1,0 +1,348 @@
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\jofosuware\node-course\osee-pos\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/modules/cjs/loader.js:985
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\db\mongoose'
+Require stack:
+- C:\Users\jofosuware\node-course\Osee-POS\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\jofosuware\\node-course\\Osee-POS\\src\\index.js' ]
+}
+internal/validators.js:117
+    throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received function wrappedCwd
+    at validateString (internal/validators.js:117:11)
+    at Object.join (path.js:375:7)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:10:32)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+internal/validators.js:117
+    throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received function wrappedCwd
+    at validateString (internal/validators.js:117:11)
+    at Object.join (path.js:375:7)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:10:32)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+internal/validators.js:117
+    throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received function wrappedCwd
+    at validateString (internal/validators.js:117:11)
+    at Object.join (path.js:375:7)
+    at Object.<anonymous> (C:\Users\jofosuware\node-course\Osee-POS\src\index.js:10:32)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 {
+  code: 'ERR_INVALID_ARG_TYPE'
+}

@@ -1,0 +1,737 @@
+2020-12-29 11:09:19 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 11:09:19 - Started 9904
+2020-12-29 12:48:58 - Stopping oseeea.exe
+2020-12-29 12:48:58 - ProcessKill 9904
+2020-12-29 12:49:00 - Found child process: 8384 Name: conhost.exe
+2020-12-29 12:49:00 - Found child process: 14924 Name: node.exe
+2020-12-29 12:49:01 - Stopping process 8384
+2020-12-29 12:49:01 - Send SIGINT 8384
+2020-12-29 12:49:01 - SIGINT to 8384 failed - Killing as fallback
+2020-12-29 12:49:01 - Stopping process 14924
+2020-12-29 12:49:01 - Send SIGINT 14924
+2020-12-29 12:49:01 - SIGINT to 14924 failed - Killing as fallback
+2020-12-29 12:49:01 - Stopping process 9904
+2020-12-29 12:49:01 - Send SIGINT 9904
+2020-12-29 12:49:01 - SIGINT to 9904 failed - Killing as fallback
+2020-12-29 12:49:01 - Finished oseeea.exe
+2020-12-29 12:49:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 12:49:21 - Started 1636
+2020-12-29 18:09:16 - Stopping oseeea.exe
+2020-12-29 18:09:17 - ProcessKill 1636
+2020-12-29 18:09:31 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-29 18:11:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 18:11:21 - Started 6008
+2020-12-29 18:26:21 - Stopping oseeea.exe
+2020-12-29 18:26:21 - ProcessKill 6008
+2020-12-29 18:26:22 - Found child process: 6016 Name: conhost.exe
+2020-12-29 18:26:22 - Found child process: 3584 Name: node.exe
+2020-12-29 18:26:22 - Stopping process 6016
+2020-12-29 18:26:22 - Send SIGINT 6016
+2020-12-29 18:26:22 - SIGINT to 6016 failed - Killing as fallback
+2020-12-29 18:26:22 - Stopping process 3584
+2020-12-29 18:26:22 - Send SIGINT 3584
+2020-12-29 18:26:22 - SIGINT to 3584 failed - Killing as fallback
+2020-12-29 18:26:22 - Stopping process 6008
+2020-12-29 18:26:22 - Send SIGINT 6008
+2020-12-29 18:26:22 - SIGINT to 6008 failed - Killing as fallback
+2020-12-29 18:26:22 - Finished oseeea.exe
+2020-12-29 18:26:45 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 18:26:45 - Started 8988
+2020-12-29 18:29:46 - Stopping oseeea.exe
+2020-12-29 18:29:46 - ProcessKill 8988
+2020-12-29 18:29:52 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-29 18:31:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 18:31:34 - Started 5944
+2020-12-29 18:38:38 - Stopping oseeea.exe
+2020-12-29 18:38:38 - ProcessKill 5944
+2020-12-29 18:38:39 - Found child process: 5952 Name: conhost.exe
+2020-12-29 18:38:39 - Found child process: 6104 Name: node.exe
+2020-12-29 18:38:39 - Stopping process 5952
+2020-12-29 18:38:39 - Send SIGINT 5952
+2020-12-29 18:38:39 - SIGINT to 5952 failed - Killing as fallback
+2020-12-29 18:38:39 - Stopping process 6104
+2020-12-29 18:38:39 - Send SIGINT 6104
+2020-12-29 18:38:39 - SIGINT to 6104 failed - Killing as fallback
+2020-12-29 18:38:39 - Stopping process 5944
+2020-12-29 18:38:39 - Send SIGINT 5944
+2020-12-29 18:38:39 - SIGINT to 5944 failed - Killing as fallback
+2020-12-29 18:38:39 - Finished oseeea.exe
+2020-12-29 18:38:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 18:38:40 - Started 3500
+2020-12-29 18:41:38 - Stopping oseeea.exe
+2020-12-29 18:41:38 - ProcessKill 3500
+2020-12-29 18:41:42 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-29 18:45:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 18:45:14 - Started 6696
+2020-12-29 20:35:53 - Stopping oseeea.exe
+2020-12-29 20:35:53 - ProcessKill 6696
+2020-12-29 20:36:03 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-29 20:39:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 20:39:34 - Started 3044
+2020-12-29 20:50:11 - Stopping oseeea.exe
+2020-12-29 20:50:11 - ProcessKill 3044
+2020-12-29 20:50:12 - Found child process: 4424 Name: conhost.exe
+2020-12-29 20:50:12 - Found child process: 5140 Name: node.exe
+2020-12-29 20:50:12 - Stopping process 4424
+2020-12-29 20:50:12 - Send SIGINT 4424
+2020-12-29 20:50:12 - SIGINT to 4424 failed - Killing as fallback
+2020-12-29 20:50:12 - Stopping process 5140
+2020-12-29 20:50:12 - Send SIGINT 5140
+2020-12-29 20:50:12 - SIGINT to 5140 failed - Killing as fallback
+2020-12-29 20:50:12 - Stopping process 3044
+2020-12-29 20:50:12 - Send SIGINT 3044
+2020-12-29 20:50:12 - SIGINT to 3044 failed - Killing as fallback
+2020-12-29 20:50:12 - Finished oseeea.exe
+2020-12-29 20:50:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 20:50:12 - Started 4204
+2020-12-29 20:51:56 - Stopping oseeea.exe
+2020-12-29 20:51:56 - ProcessKill 4204
+2020-12-29 20:51:56 - Found child process: 8484 Name: conhost.exe
+2020-12-29 20:51:56 - Found child process: 6864 Name: node.exe
+2020-12-29 20:51:56 - Stopping process 8484
+2020-12-29 20:51:56 - Send SIGINT 8484
+2020-12-29 20:51:56 - SIGINT to 8484 failed - Killing as fallback
+2020-12-29 20:51:56 - Stopping process 6864
+2020-12-29 20:51:56 - Send SIGINT 6864
+2020-12-29 20:51:56 - SIGINT to 6864 failed - Killing as fallback
+2020-12-29 20:51:56 - Stopping process 4204
+2020-12-29 20:51:56 - Send SIGINT 4204
+2020-12-29 20:51:56 - SIGINT to 4204 failed - Killing as fallback
+2020-12-29 20:51:56 - Finished oseeea.exe
+2020-12-29 20:51:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 20:51:58 - Started 8456
+2020-12-29 20:53:03 - Stopping oseeea.exe
+2020-12-29 20:53:03 - ProcessKill 8456
+2020-12-29 20:53:04 - Found child process: 232 Name: conhost.exe
+2020-12-29 20:53:04 - Found child process: 1608 Name: node.exe
+2020-12-29 20:53:04 - Stopping process 232
+2020-12-29 20:53:04 - Send SIGINT 232
+2020-12-29 20:53:04 - SIGINT to 232 failed - Killing as fallback
+2020-12-29 20:53:04 - Stopping process 1608
+2020-12-29 20:53:04 - Send SIGINT 1608
+2020-12-29 20:53:04 - SIGINT to 1608 failed - Killing as fallback
+2020-12-29 20:53:04 - Stopping process 8456
+2020-12-29 20:53:04 - Send SIGINT 8456
+2020-12-29 20:53:04 - SIGINT to 8456 failed - Killing as fallback
+2020-12-29 20:53:04 - Finished oseeea.exe
+2020-12-29 20:53:05 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 20:53:05 - Started 2544
+2020-12-29 20:54:55 - Stopping oseeea.exe
+2020-12-29 20:54:55 - ProcessKill 2544
+2020-12-29 20:54:55 - Found child process: 4264 Name: conhost.exe
+2020-12-29 20:54:55 - Found child process: 3608 Name: node.exe
+2020-12-29 20:54:55 - Stopping process 4264
+2020-12-29 20:54:55 - Send SIGINT 4264
+2020-12-29 20:54:55 - SIGINT to 4264 failed - Killing as fallback
+2020-12-29 20:54:55 - Stopping process 3608
+2020-12-29 20:54:55 - Send SIGINT 3608
+2020-12-29 20:54:55 - SIGINT to 3608 failed - Killing as fallback
+2020-12-29 20:54:55 - Stopping process 2544
+2020-12-29 20:54:55 - Send SIGINT 2544
+2020-12-29 20:54:55 - SIGINT to 2544 failed - Killing as fallback
+2020-12-29 20:54:55 - Finished oseeea.exe
+2020-12-29 20:55:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 20:55:08 - Started 7264
+2020-12-29 20:59:39 - Stopping oseeea.exe
+2020-12-29 20:59:39 - ProcessKill 7264
+2020-12-29 20:59:39 - Found child process: 2912 Name: conhost.exe
+2020-12-29 20:59:39 - Found child process: 8948 Name: node.exe
+2020-12-29 20:59:39 - Stopping process 2912
+2020-12-29 20:59:39 - Send SIGINT 2912
+2020-12-29 20:59:39 - SIGINT to 2912 failed - Killing as fallback
+2020-12-29 20:59:39 - Stopping process 8948
+2020-12-29 20:59:39 - Send SIGINT 8948
+2020-12-29 20:59:39 - SIGINT to 8948 failed - Killing as fallback
+2020-12-29 20:59:39 - Stopping process 7264
+2020-12-29 20:59:39 - Send SIGINT 7264
+2020-12-29 20:59:39 - SIGINT to 7264 failed - Killing as fallback
+2020-12-29 20:59:39 - Finished oseeea.exe
+2020-12-29 21:04:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 21:04:48 - Started 7688
+2020-12-29 21:12:27 - Stopping oseeea.exe
+2020-12-29 21:12:27 - ProcessKill 7688
+2020-12-29 21:12:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-29 21:14:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 21:14:08 - Started 3740
+2020-12-29 21:39:38 - Stopping oseeea.exe
+2020-12-29 21:39:38 - ProcessKill 3740
+2020-12-29 21:39:39 - Found child process: 3876 Name: conhost.exe
+2020-12-29 21:39:39 - Found child process: 6200 Name: node.exe
+2020-12-29 21:39:40 - Stopping process 3876
+2020-12-29 21:39:40 - Send SIGINT 3876
+2020-12-29 21:39:40 - SIGINT to 3876 failed - Killing as fallback
+2020-12-29 21:39:40 - Stopping process 6200
+2020-12-29 21:39:40 - Send SIGINT 6200
+2020-12-29 21:39:40 - SIGINT to 6200 failed - Killing as fallback
+2020-12-29 21:39:40 - Stopping process 3740
+2020-12-29 21:39:40 - Send SIGINT 3740
+2020-12-29 21:39:40 - SIGINT to 3740 failed - Killing as fallback
+2020-12-29 21:39:40 - Finished oseeea.exe
+2020-12-29 21:39:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 21:39:42 - Started 5600
+2020-12-29 21:41:01 - Stopping oseeea.exe
+2020-12-29 21:41:01 - ProcessKill 5600
+2020-12-29 21:41:08 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-29 21:42:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 21:42:42 - Started 5060
+2020-12-29 21:51:46 - Stopping oseeea.exe
+2020-12-29 21:51:46 - ProcessKill 5060
+2020-12-29 21:51:46 - Found child process: 5612 Name: conhost.exe
+2020-12-29 21:51:46 - Found child process: 6704 Name: node.exe
+2020-12-29 21:51:47 - Stopping process 5612
+2020-12-29 21:51:47 - Send SIGINT 5612
+2020-12-29 21:51:47 - SIGINT to 5612 failed - Killing as fallback
+2020-12-29 21:51:47 - Stopping process 6704
+2020-12-29 21:51:47 - Send SIGINT 6704
+2020-12-29 21:51:47 - SIGINT to 6704 failed - Killing as fallback
+2020-12-29 21:51:47 - Stopping process 5060
+2020-12-29 21:51:47 - Send SIGINT 5060
+2020-12-29 21:51:47 - SIGINT to 5060 failed - Killing as fallback
+2020-12-29 21:51:47 - Finished oseeea.exe
+2020-12-29 21:51:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 21:51:58 - Started 3624
+2020-12-29 22:01:11 - Stopping oseeea.exe
+2020-12-29 22:01:11 - ProcessKill 3624
+2020-12-29 22:01:11 - Found child process: 7932 Name: conhost.exe
+2020-12-29 22:01:11 - Found child process: 1020 Name: node.exe
+2020-12-29 22:01:11 - Stopping process 7932
+2020-12-29 22:01:11 - Send SIGINT 7932
+2020-12-29 22:01:11 - SIGINT to 7932 failed - Killing as fallback
+2020-12-29 22:01:11 - Stopping process 1020
+2020-12-29 22:01:11 - Send SIGINT 1020
+2020-12-29 22:01:11 - SIGINT to 1020 failed - Killing as fallback
+2020-12-29 22:01:11 - Stopping process 3624
+2020-12-29 22:01:11 - Send SIGINT 3624
+2020-12-29 22:01:11 - SIGINT to 3624 failed - Killing as fallback
+2020-12-29 22:01:11 - Finished oseeea.exe
+2020-12-29 22:02:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-29 22:02:28 - Started 3128
+2020-12-30 19:27:43 - Stopping oseeea.exe
+2020-12-30 19:27:43 - ProcessKill 3128
+2020-12-30 19:27:45 - Found child process: 1596 Name: conhost.exe
+2020-12-30 19:27:45 - Found child process: 9904 Name: node.exe
+2020-12-30 19:27:45 - Stopping process 1596
+2020-12-30 19:27:45 - Send SIGINT 1596
+2020-12-30 19:27:45 - SIGINT to 1596 failed - Killing as fallback
+2020-12-30 19:27:45 - Stopping process 9904
+2020-12-30 19:27:45 - Send SIGINT 9904
+2020-12-30 19:27:45 - SIGINT to 9904 failed - Killing as fallback
+2020-12-30 19:27:45 - Stopping process 3128
+2020-12-30 19:27:45 - Send SIGINT 3128
+2020-12-30 19:27:45 - SIGINT to 3128 failed - Killing as fallback
+2020-12-30 19:27:45 - Finished oseeea.exe
+2020-12-30 19:34:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-30 19:34:33 - Started 4404
+2020-12-30 19:35:52 - Stopping oseeea.exe
+2020-12-30 19:35:52 - ProcessKill 4404
+2020-12-30 19:36:19 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-30 19:37:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-30 19:37:28 - Started 4700
+2020-12-30 20:24:32 - Stopping oseeea.exe
+2020-12-30 20:24:33 - ProcessKill 4700
+2020-12-30 20:24:34 - Found child process: 4776 Name: conhost.exe
+2020-12-30 20:24:34 - Found child process: 6048 Name: node.exe
+2020-12-30 20:24:34 - Stopping process 4776
+2020-12-30 20:24:34 - Send SIGINT 4776
+2020-12-30 20:24:34 - SIGINT to 4776 failed - Killing as fallback
+2020-12-30 20:24:34 - Stopping process 6048
+2020-12-30 20:24:34 - Send SIGINT 6048
+2020-12-30 20:24:34 - SIGINT to 6048 failed - Killing as fallback
+2020-12-30 20:24:34 - Stopping process 4700
+2020-12-30 20:24:34 - Send SIGINT 4700
+2020-12-30 20:24:34 - SIGINT to 4700 failed - Killing as fallback
+2020-12-30 20:24:34 - Finished oseeea.exe
+2020-12-30 20:24:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-30 20:24:36 - Started 7424
+2020-12-31 08:59:04 - Stopping oseeea.exe
+2020-12-31 08:59:04 - ProcessKill 7424
+2020-12-31 08:59:12 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-31 09:00:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:00:20 - Started 4884
+2020-12-31 09:23:55 - Stopping oseeea.exe
+2020-12-31 09:23:55 - ProcessKill 4884
+2020-12-31 09:23:57 - Found child process: 4908 Name: conhost.exe
+2020-12-31 09:23:57 - Found child process: 5768 Name: node.exe
+2020-12-31 09:23:57 - Stopping process 4908
+2020-12-31 09:23:58 - Send SIGINT 4908
+2020-12-31 09:23:58 - SIGINT to 4908 failed - Killing as fallback
+2020-12-31 09:23:58 - Stopping process 5768
+2020-12-31 09:23:58 - Send SIGINT 5768
+2020-12-31 09:23:58 - SIGINT to 5768 failed - Killing as fallback
+2020-12-31 09:23:58 - Stopping process 4884
+2020-12-31 09:23:58 - Send SIGINT 4884
+2020-12-31 09:23:58 - SIGINT to 4884 failed - Killing as fallback
+2020-12-31 09:23:58 - Finished oseeea.exe
+2020-12-31 09:24:00 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:24:00 - Started 6908
+2020-12-31 09:24:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:24:42 - Started 4480
+2020-12-31 09:26:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:26:26 - Started 8064
+2020-12-31 09:27:05 - Stopping oseeea.exe
+2020-12-31 09:27:05 - ProcessKill 8064
+2020-12-31 09:27:06 - Found child process: 9760 Name: conhost.exe
+2020-12-31 09:27:06 - Found child process: 4420 Name: node.exe
+2020-12-31 09:27:06 - Stopping process 9760
+2020-12-31 09:27:06 - Send SIGINT 9760
+2020-12-31 09:27:06 - SIGINT to 9760 failed - Killing as fallback
+2020-12-31 09:27:06 - Stopping process 4420
+2020-12-31 09:27:06 - Send SIGINT 4420
+2020-12-31 09:27:06 - SIGINT to 4420 failed - Killing as fallback
+2020-12-31 09:27:06 - Stopping process 8064
+2020-12-31 09:27:06 - Send SIGINT 8064
+2020-12-31 09:27:06 - SIGINT to 8064 failed - Killing as fallback
+2020-12-31 09:27:06 - Finished oseeea.exe
+2020-12-31 09:27:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:27:07 - Started 5940
+2020-12-31 09:30:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:30:24 - Started 5388
+2020-12-31 09:38:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:38:59 - Started 760
+2020-12-31 09:50:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:50:29 - Started 4916
+2020-12-31 09:58:34 - Stopping oseeea.exe
+2020-12-31 09:58:34 - ProcessKill 4916
+2020-12-31 09:58:35 - Found child process: 10092 Name: conhost.exe
+2020-12-31 09:58:35 - Found child process: 10500 Name: node.exe
+2020-12-31 09:58:35 - Stopping process 10092
+2020-12-31 09:58:35 - Send SIGINT 10092
+2020-12-31 09:58:35 - SIGINT to 10092 failed - Killing as fallback
+2020-12-31 09:58:35 - Stopping process 10500
+2020-12-31 09:58:35 - Send SIGINT 10500
+2020-12-31 09:58:35 - SIGINT to 10500 failed - Killing as fallback
+2020-12-31 09:58:35 - Stopping process 4916
+2020-12-31 09:58:35 - Send SIGINT 4916
+2020-12-31 09:58:35 - SIGINT to 4916 failed - Killing as fallback
+2020-12-31 09:58:35 - Finished oseeea.exe
+2020-12-31 09:58:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 09:58:36 - Started 12064
+2020-12-31 10:05:24 - Stopping oseeea.exe
+2020-12-31 10:05:24 - ProcessKill 12064
+2020-12-31 10:05:25 - Found child process: 4616 Name: conhost.exe
+2020-12-31 10:05:25 - Found child process: 5052 Name: node.exe
+2020-12-31 10:05:25 - Stopping process 4616
+2020-12-31 10:05:25 - Send SIGINT 4616
+2020-12-31 10:05:25 - SIGINT to 4616 failed - Killing as fallback
+2020-12-31 10:05:25 - Stopping process 5052
+2020-12-31 10:05:25 - Send SIGINT 5052
+2020-12-31 10:05:25 - SIGINT to 5052 failed - Killing as fallback
+2020-12-31 10:05:25 - Stopping process 12064
+2020-12-31 10:05:25 - Send SIGINT 12064
+2020-12-31 10:05:25 - SIGINT to 12064 failed - Killing as fallback
+2020-12-31 10:05:25 - Finished oseeea.exe
+2020-12-31 10:05:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 10:05:26 - Started 11744
+2020-12-31 10:10:20 - Stopping oseeea.exe
+2020-12-31 10:10:20 - ProcessKill 11744
+2020-12-31 10:10:20 - Found child process: 7064 Name: conhost.exe
+2020-12-31 10:10:20 - Found child process: 1316 Name: node.exe
+2020-12-31 10:10:20 - Stopping process 7064
+2020-12-31 10:10:20 - Send SIGINT 7064
+2020-12-31 10:10:20 - SIGINT to 7064 failed - Killing as fallback
+2020-12-31 10:10:21 - Stopping process 1316
+2020-12-31 10:10:21 - Send SIGINT 1316
+2020-12-31 10:10:21 - SIGINT to 1316 failed - Killing as fallback
+2020-12-31 10:10:21 - Stopping process 11744
+2020-12-31 10:10:21 - Send SIGINT 11744
+2020-12-31 10:10:21 - SIGINT to 11744 failed - Killing as fallback
+2020-12-31 10:10:21 - Finished oseeea.exe
+2020-12-31 10:10:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 10:10:22 - Started 7308
+2020-12-31 10:10:55 - Stopping oseeea.exe
+2020-12-31 10:10:55 - ProcessKill 7308
+2020-12-31 10:10:55 - Found child process: 7316 Name: conhost.exe
+2020-12-31 10:10:55 - Found child process: 10180 Name: node.exe
+2020-12-31 10:10:55 - Stopping process 7316
+2020-12-31 10:10:55 - Send SIGINT 7316
+2020-12-31 10:10:55 - SIGINT to 7316 failed - Killing as fallback
+2020-12-31 10:10:55 - Stopping process 10180
+2020-12-31 10:10:55 - Send SIGINT 10180
+2020-12-31 10:10:55 - SIGINT to 10180 failed - Killing as fallback
+2020-12-31 10:10:55 - Stopping process 7308
+2020-12-31 10:10:55 - Send SIGINT 7308
+2020-12-31 10:10:55 - SIGINT to 7308 failed - Killing as fallback
+2020-12-31 10:10:55 - Finished oseeea.exe
+2020-12-31 10:10:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 10:10:56 - Started 10260
+2020-12-31 10:11:16 - Stopping oseeea.exe
+2020-12-31 10:11:16 - ProcessKill 10260
+2020-12-31 10:11:16 - Found child process: 10248 Name: conhost.exe
+2020-12-31 10:11:16 - Found child process: 12180 Name: node.exe
+2020-12-31 10:11:16 - Stopping process 10248
+2020-12-31 10:11:16 - Send SIGINT 10248
+2020-12-31 10:11:16 - SIGINT to 10248 failed - Killing as fallback
+2020-12-31 10:11:16 - Stopping process 12180
+2020-12-31 10:11:16 - Send SIGINT 12180
+2020-12-31 10:11:16 - SIGINT to 12180 failed - Killing as fallback
+2020-12-31 10:11:16 - Stopping process 10260
+2020-12-31 10:11:16 - Send SIGINT 10260
+2020-12-31 10:11:16 - SIGINT to 10260 failed - Killing as fallback
+2020-12-31 10:11:16 - Finished oseeea.exe
+2020-12-31 10:11:17 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 10:11:17 - Started 8080
+2020-12-31 10:11:50 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 10:11:50 - Started 1432
+2020-12-31 10:12:59 - Stopping oseeea.exe
+2020-12-31 10:12:59 - ProcessKill 1432
+2020-12-31 10:13:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-12-31 10:14:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 10:14:27 - Started 4736
+2020-12-31 14:20:08 - Stopping oseeea.exe
+2020-12-31 14:20:08 - ProcessKill 4736
+2020-12-31 14:20:10 - Found child process: 4816 Name: conhost.exe
+2020-12-31 14:20:10 - Found child process: 5232 Name: node.exe
+2020-12-31 14:20:10 - Stopping process 4816
+2020-12-31 14:20:11 - Send SIGINT 4816
+2020-12-31 14:20:11 - SIGINT to 4816 failed - Killing as fallback
+2020-12-31 14:20:11 - Stopping process 5232
+2020-12-31 14:20:11 - Send SIGINT 5232
+2020-12-31 14:20:11 - SIGINT to 5232 failed - Killing as fallback
+2020-12-31 14:20:11 - Stopping process 4736
+2020-12-31 14:20:11 - Send SIGINT 4736
+2020-12-31 14:20:11 - SIGINT to 4736 failed - Killing as fallback
+2020-12-31 14:20:11 - Finished oseeea.exe
+2020-12-31 14:20:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 14:20:13 - Started 9520
+2020-12-31 14:21:06 - Stopping oseeea.exe
+2020-12-31 14:21:06 - ProcessKill 9520
+2020-12-31 14:21:06 - Found child process: 8960 Name: conhost.exe
+2020-12-31 14:21:06 - Found child process: 4904 Name: node.exe
+2020-12-31 14:21:06 - Stopping process 8960
+2020-12-31 14:21:06 - Send SIGINT 8960
+2020-12-31 14:21:06 - SIGINT to 8960 failed - Killing as fallback
+2020-12-31 14:21:06 - Stopping process 4904
+2020-12-31 14:21:06 - Send SIGINT 4904
+2020-12-31 14:21:06 - SIGINT to 4904 failed - Killing as fallback
+2020-12-31 14:21:06 - Stopping process 9520
+2020-12-31 14:21:06 - Send SIGINT 9520
+2020-12-31 14:21:06 - SIGINT to 9520 failed - Killing as fallback
+2020-12-31 14:21:06 - Finished oseeea.exe
+2020-12-31 14:21:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-31 14:21:08 - Started 10596
+2020-12-31 14:21:56 - Stopping oseeea.exe
+2020-12-31 14:21:56 - ProcessKill 10596
+2020-12-31 14:21:56 - Found child process: 4352 Name: conhost.exe
+2020-12-31 14:21:56 - Found child process: 9360 Name: node.exe
+2020-12-31 14:21:56 - Stopping process 4352
+2020-12-31 14:21:56 - Send SIGINT 4352
+2020-12-31 14:21:56 - SIGINT to 4352 failed - Killing as fallback
+2020-12-31 14:21:56 - Stopping process 9360
+2020-12-31 14:21:56 - Send SIGINT 9360
+2020-12-31 14:21:56 - SIGINT to 9360 failed - Killing as fallback
+2020-12-31 14:21:56 - Stopping process 10596
+2020-12-31 14:21:56 - Send SIGINT 10596
+2020-12-31 14:21:56 - SIGINT to 10596 failed - Killing as fallback
+2020-12-31 14:21:56 - Finished oseeea.exe
+2021-01-04 12:36:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-04 12:36:58 - Started 4660
+2021-01-04 13:02:06 - Stopping oseeea.exe
+2021-01-04 13:02:06 - ProcessKill 4660
+2021-01-04 13:02:21 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-01-04 13:03:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-04 13:03:27 - Started 4676
+2021-01-04 13:46:21 - Stopping oseeea.exe
+2021-01-04 13:46:21 - ProcessKill 4676
+2021-01-04 13:46:33 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-01-04 13:47:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-04 13:47:41 - Started 4636
+2021-01-08 07:59:47 - Stopping oseeea.exe
+2021-01-08 08:01:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-08 08:01:02 - Started 4456
+2021-01-09 18:13:14 - Stopping oseeea.exe
+2021-01-09 18:13:14 - ProcessKill 4456
+2021-01-09 18:13:17 - Found child process: 4488 Name: conhost.exe
+2021-01-09 18:13:17 - Found child process: 5896 Name: node.exe
+2021-01-09 18:13:18 - Stopping process 4488
+2021-01-09 18:13:18 - Send SIGINT 4488
+2021-01-09 18:13:18 - SIGINT to 4488 failed - Killing as fallback
+2021-01-09 18:13:18 - Stopping process 5896
+2021-01-09 18:13:18 - Send SIGINT 5896
+2021-01-09 18:13:18 - SIGINT to 5896 failed - Killing as fallback
+2021-01-09 18:13:18 - Stopping process 4456
+2021-01-09 18:13:18 - Send SIGINT 4456
+2021-01-09 18:13:18 - SIGINT to 4456 failed - Killing as fallback
+2021-01-09 18:13:18 - Finished oseeea.exe
+2021-01-16 13:12:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-16 13:12:53 - Started 4712
+2021-01-18 08:38:29 - Stopping oseeea.exe
+2021-01-18 08:38:29 - ProcessKill 4712
+2021-01-18 08:38:33 - Found child process: 4724 Name: conhost.exe
+2021-01-18 08:38:33 - Found child process: 4964 Name: node.exe
+2021-01-18 08:38:33 - Stopping process 4724
+2021-01-18 08:38:34 - Send SIGINT 4724
+2021-01-18 08:38:34 - SIGINT to 4724 failed - Killing as fallback
+2021-01-18 08:38:34 - Stopping process 4964
+2021-01-18 08:38:34 - Send SIGINT 4964
+2021-01-18 08:38:34 - SIGINT to 4964 failed - Killing as fallback
+2021-01-18 08:38:34 - Stopping process 4712
+2021-01-18 08:38:34 - Send SIGINT 4712
+2021-01-18 08:38:34 - SIGINT to 4712 failed - Killing as fallback
+2021-01-18 08:38:34 - Finished oseeea.exe
+2021-01-20 16:56:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-20 16:56:27 - Started 4700
+2021-01-21 12:50:43 - Stopping oseeea.exe
+2021-01-21 12:50:44 - ProcessKill 4700
+2021-01-21 12:51:01 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-01-21 12:52:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-21 12:52:10 - Started 4976
+2021-01-21 13:26:42 - Stopping oseeea.exe
+2021-01-21 13:26:43 - ProcessKill 4976
+2021-01-21 13:26:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-01-21 13:28:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-21 13:28:08 - Started 4728
+2021-01-21 14:08:04 - Stopping oseeea.exe
+2021-01-21 14:08:04 - ProcessKill 4728
+2021-01-21 14:08:19 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-01-21 14:09:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-21 14:09:29 - Started 4828
+2021-01-22 09:15:24 - Stopping oseeea.exe
+2021-01-22 09:15:24 - ProcessKill 4828
+2021-01-22 09:15:29 - Found child process: 4860 Name: conhost.exe
+2021-01-22 09:15:29 - Found child process: 5244 Name: node.exe
+2021-01-22 09:15:29 - Stopping process 4860
+2021-01-22 09:15:29 - Send SIGINT 4860
+2021-01-22 09:15:29 - SIGINT to 4860 failed - Killing as fallback
+2021-01-22 09:15:30 - Stopping process 5244
+2021-01-22 09:15:30 - Send SIGINT 5244
+2021-01-22 09:15:30 - SIGINT to 5244 failed - Killing as fallback
+2021-01-22 09:15:30 - Stopping process 4828
+2021-01-22 09:15:30 - Send SIGINT 4828
+2021-01-22 09:15:30 - SIGINT to 4828 failed - Killing as fallback
+2021-01-22 09:15:30 - Finished oseeea.exe
+2021-01-26 10:22:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-26 10:22:28 - Started 4572
+2021-01-28 12:25:19 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-28 12:25:19 - Started 4480
+2021-01-28 13:07:25 - Stopping oseeea.exe
+2021-01-28 13:07:25 - ProcessKill 4480
+2021-01-28 13:07:27 - Found child process: 4640 Name: conhost.exe
+2021-01-28 13:07:27 - Found child process: 5736 Name: node.exe
+2021-01-28 13:07:27 - Stopping process 4640
+2021-01-28 13:07:27 - Send SIGINT 4640
+2021-01-28 13:07:27 - SIGINT to 4640 failed - Killing as fallback
+2021-01-28 13:07:27 - Stopping process 5736
+2021-01-28 13:07:27 - Send SIGINT 5736
+2021-01-28 13:07:27 - SIGINT to 5736 failed - Killing as fallback
+2021-01-28 13:07:27 - Stopping process 4480
+2021-01-28 13:07:27 - Send SIGINT 4480
+2021-01-28 13:07:27 - SIGINT to 4480 failed - Killing as fallback
+2021-01-28 13:07:27 - Finished oseeea.exe
+2021-02-15 20:10:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-02-15 20:10:41 - Started 6912
+2021-02-20 18:42:55 - Stopping oseeea.exe
+2021-02-20 18:42:57 - ProcessKill 6912
+2021-02-20 18:43:09 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-02-20 18:44:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-02-20 18:44:32 - Started 4944
+2021-02-20 18:51:39 - Stopping oseeea.exe
+2021-02-20 18:51:39 - ProcessKill 4944
+2021-02-20 18:51:53 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-02-20 18:53:03 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-02-20 18:53:03 - Started 4796
+2021-02-20 19:02:09 - Stopping oseeea.exe
+2021-02-20 19:02:09 - ProcessKill 4796
+2021-02-20 19:02:10 - Found child process: 4832 Name: conhost.exe
+2021-02-20 19:02:10 - Found child process: 5420 Name: node.exe
+2021-02-20 19:02:10 - Stopping process 4832
+2021-02-20 19:02:10 - Send SIGINT 4832
+2021-02-20 19:02:10 - SIGINT to 4832 failed - Killing as fallback
+2021-02-20 19:02:11 - Stopping process 5420
+2021-02-20 19:02:11 - Send SIGINT 5420
+2021-02-20 19:02:11 - SIGINT to 5420 failed - Killing as fallback
+2021-02-20 19:02:11 - Stopping process 4796
+2021-02-20 19:02:11 - Send SIGINT 4796
+2021-02-20 19:02:11 - SIGINT to 4796 failed - Killing as fallback
+2021-02-20 19:02:11 - Finished oseeea.exe
+2021-02-20 19:02:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-02-20 19:02:18 - Started 2324
+2021-03-05 18:35:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-05 18:35:32 - Started 5676
+2021-03-06 18:12:24 - Stopping oseeea.exe
+2021-03-06 18:12:24 - ProcessKill 5676
+2021-03-06 18:12:42 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-03-06 18:14:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-06 18:14:44 - Started 4768
+2021-03-06 18:31:04 - Stopping oseeea.exe
+2021-03-06 18:31:04 - ProcessKill 4768
+2021-03-06 18:31:06 - Found child process: 5076 Name: conhost.exe
+2021-03-06 18:31:06 - Found child process: 4540 Name: node.exe
+2021-03-06 18:31:06 - Stopping process 5076
+2021-03-06 18:31:06 - Send SIGINT 5076
+2021-03-06 18:31:06 - SIGINT to 5076 failed - Killing as fallback
+2021-03-06 18:31:06 - Stopping process 4540
+2021-03-06 18:31:06 - Send SIGINT 4540
+2021-03-06 18:31:06 - SIGINT to 4540 failed - Killing as fallback
+2021-03-06 18:31:06 - Stopping process 4768
+2021-03-06 18:31:06 - Send SIGINT 4768
+2021-03-06 18:31:06 - SIGINT to 4768 failed - Killing as fallback
+2021-03-06 18:31:06 - Finished oseeea.exe
+2021-03-06 18:31:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\jofosuware\node-course\osee-pos\node_modules\node-windows\lib\wrapper.js --file C:\Users\jofosuware\node-course\Osee-POS\src\index.js --scriptoptions= --log "OseeEA wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-06 18:31:09 - Started 9764
